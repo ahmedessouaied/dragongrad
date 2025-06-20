@@ -117,7 +117,7 @@ dragongrad/
 
 **Ahmed Essouaied**  
 🎓 2nd year ICT Engineering student  
-📫 [Your GitHub or LinkedIn profile here]
+📫 [https://www.linkedin.com/in/ahmed-essouaied/]
 
 ---
 
